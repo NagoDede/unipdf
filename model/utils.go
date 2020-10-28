@@ -6,8 +6,8 @@
 package model
 
 import (
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/NagoDede/unipdf/common"
+	"github.com/NagoDede/unipdf/core"
 )
 
 func getUniDocVersion() string {

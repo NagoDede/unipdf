@@ -11,8 +11,8 @@ import (
 	"image/color"
 	"math"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/NagoDede/unipdf/common"
+	"github.com/NagoDede/unipdf/core"
 )
 
 // PdfColorspace interface defines the common methods of a PDF colorspace.

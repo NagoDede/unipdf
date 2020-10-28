@@ -6,11 +6,11 @@
 package annotator
 
 import (
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/NagoDede/unipdf/common"
 
-	"github.com/unidoc/unipdf/v3/contentstream/draw"
-	pdfcore "github.com/unidoc/unipdf/v3/core"
-	pdf "github.com/unidoc/unipdf/v3/model"
+	"github.com/NagoDede/unipdf/contentstream/draw"
+	pdfcore "github.com/NagoDede/unipdf/core"
+	pdf "github.com/NagoDede/unipdf/model"
 )
 
 type CircleAnnotationDef struct {

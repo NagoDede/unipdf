@@ -6,7 +6,7 @@
 package extractor
 
 import (
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/NagoDede/unipdf/model"
 )
 
 // Extractor stores and offers functionality for extracting content from PDF pages.

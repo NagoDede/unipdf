@@ -8,7 +8,7 @@ package cmap
 import (
 	"unicode/utf16"
 
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/NagoDede/unipdf/common"
 )
 
 // hexToCharCode returns the integer that is encoded in `shex` as a big-endian hex value

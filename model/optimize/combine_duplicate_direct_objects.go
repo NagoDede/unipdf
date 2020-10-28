@@ -8,7 +8,7 @@ package optimize
 import (
 	"crypto/md5"
 
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/NagoDede/unipdf/core"
 )
 
 // CombineDuplicateDirectObjects combines duplicated direct objects by its data hash.

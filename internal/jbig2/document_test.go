@@ -12,10 +12,10 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/NagoDede/unipdf/common"
 
-	"github.com/unidoc/unipdf/v3/internal/jbig2/bitmap"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/segments"
+	"github.com/NagoDede/unipdf/internal/jbig2/bitmap"
+	"github.com/NagoDede/unipdf/internal/jbig2/segments"
 )
 
 // TestDocument tests the jbig2.Document decoding.

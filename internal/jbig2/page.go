@@ -10,10 +10,10 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/NagoDede/unipdf/common"
 
-	"github.com/unidoc/unipdf/v3/internal/jbig2/bitmap"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/segments"
+	"github.com/NagoDede/unipdf/internal/jbig2/bitmap"
+	"github.com/NagoDede/unipdf/internal/jbig2/segments"
 )
 
 // Page represents JBIG2 Page structure.

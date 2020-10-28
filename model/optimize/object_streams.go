@@ -6,7 +6,7 @@
 package optimize
 
 import (
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/NagoDede/unipdf/core"
 )
 
 // ObjectStreams groups PDF objects to object streams.

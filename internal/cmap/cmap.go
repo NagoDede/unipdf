@@ -10,9 +10,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/internal/textencoding"
+	"github.com/NagoDede/unipdf/common"
+	"github.com/NagoDede/unipdf/core"
+	"github.com/NagoDede/unipdf/internal/textencoding"
 )
 
 // CharCode is a character code or Unicode

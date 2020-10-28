@@ -11,12 +11,12 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/NagoDede/unipdf/common"
+	"github.com/NagoDede/unipdf/core"
 
-	"github.com/unidoc/unipdf/v3/internal/cmap"
-	"github.com/unidoc/unipdf/v3/internal/textencoding"
-	"github.com/unidoc/unipdf/v3/model/internal/fonts"
+	"github.com/NagoDede/unipdf/internal/cmap"
+	"github.com/NagoDede/unipdf/internal/textencoding"
+	"github.com/NagoDede/unipdf/model/internal/fonts"
 )
 
 // pdfFont is an internal interface for fonts that can be stored in PDF documents.

@@ -6,7 +6,7 @@
 package huffman
 
 import (
-	"github.com/unidoc/unipdf/v3/internal/jbig2/reader"
+	"github.com/NagoDede/unipdf/internal/jbig2/reader"
 )
 
 // Compile time check for the encoded table.

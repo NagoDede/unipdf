@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/internal/jbig2/reader"
+	"github.com/NagoDede/unipdf/internal/jbig2/reader"
 )
 
 // Tabler is the interface for all types of the huffman tables.
